@@ -1,6 +1,6 @@
 # 💼 Hi there, I'm Nastya
 
-🎓 MAI COMPUTER SCIENS 
+🎓 MAI COMPUTER SCIENS\
 📊 Интересуюсь **Data Science** и **машинным обучением**  
 🧠 Изучаю **нейросети**, **анализ данных** и **прикладные алгоритмы**  
 🚀 Работаю над проектами на `Python` с использованием `pandas`, `scikit-learn`, `PyTorch`  
