@@ -1,4 +1,4 @@
-# 💼 Портфолио проектов | sswwerty
+# 💼 Hi there, I'm Nastya
 
 🎓 MAI COMPUTER SCIENS 
 📊 Интересуюсь **Data Science** и **машинным обучением**  
