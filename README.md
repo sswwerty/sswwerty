@@ -1,4 +1,4 @@
-# 💼 Hi there, I'm Nastya
+# 💼 Hi, I'm Nastya
 
 🎓 MAI COMPUTER SCIENS\
 📊 Интересуюсь **Data Science** и **машинным обучением**  
