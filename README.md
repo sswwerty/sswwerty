@@ -1,12 +1,12 @@
-# 💼 Hi, I'm Nastya
-# 💫 About Me
+# Hi, I'm Nastya
+# About Me
 🎓 MAI COMPUTER SCIENCE  
 📊 Data Science / Machine Learning  
 🧠 Classical ML, Feature Engineering, Model Validation  
 📈 Focus on clean and reproducible ML pipelines  
 
 ## 🌐 Socials
-[![Telegram](https://img.shields.io/badge/Telegram-sswwerrty-0088cc?style=for-the-badge&logo=telegram)](https://t.me/sswwerrty) 
+[![Telegram](https://img.shields.io/badge/Telegram-sswwerrty-0088cc?style=for-the-badge&logo=telegram)](https://t.me/sswwerrty) \
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anastasiia.fimina@gmail.com)
 
 ---
