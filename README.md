@@ -1,13 +1,24 @@
-# Hi, I'm Nastya
-# About Me
-🎓 MAI COMPUTER SCIENCE  
-📊 Data Science / Machine Learning  
-🧠 Classical ML, Feature Engineering, Model Validation  
-📈 Focus on clean and reproducible ML pipelines  
+# Hi, I'm Nastya 👋
 
-## 🌐 Socials
-[![Telegram](https://img.shields.io/badge/Telegram-sswwerrty-0088cc?style=for-the-badge&logo=telegram)](https://t.me/sswwerrty) \
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anastasiia.fimina@gmail.com)
+**Data Scientist at Alfa-Bank | Computer Science student at MAI**
+
+I work with machine learning models in the banking domain — from data analysis and feature engineering to model validation and business-oriented insights.
+
+My main focus is applied ML: building clean, reproducible and interpretable solutions that can work not only in notebooks, but also in real business processes.
+
+Currently interested in:
+- Classical Machine Learning
+- Financial Modeling & Model Validation
+- Feature Engineering
+- NLP, LLMs and AI Agents
+- Clean and reproducible ML pipelines
+
+---
+
+## 🌐 Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-sswwerrty-0088cc?style=for-the-badge&logo=telegram)](https://t.me/sswwerrty)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anastasiia.fimina@gmail.com)
 
 ---
 
