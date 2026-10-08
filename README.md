@@ -10,7 +10,7 @@ Currently interested in:
 - Classical Machine Learning
 - Financial Modeling & Model Validation
 - Feature Engineering
-- NLP, LLMs and AI Agents
+- NLP, LLMs and Speech
 - Clean and reproducible ML pipelines
 
 ---
